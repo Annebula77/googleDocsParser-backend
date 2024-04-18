@@ -1,0 +1,35 @@
+{
+  "name": "recipt-parser",
+  "version": "1.0.0",
+  "description": "parsing google docs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "googleDocsParser-backend"
+  },
+  "keywords": [
+    "google-docs",
+    "parser",
+    "document-parser",
+    "text-extraction",
+    "nodejs",
+    "google-api",
+    "data-processing"
+  ],
+  "author": "Gohar Vardanyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
+}
