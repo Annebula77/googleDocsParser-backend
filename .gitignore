@@ -13,3 +13,6 @@ dist/
 # Игнорировать временные файлы
 *.tmp
 *.temp
+
+docsparsing-12739e641ac7.json
+temp.docx
